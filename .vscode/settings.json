@@ -1,0 +1,6 @@
+{
+    // Backend
+    "elixirLS.projectDir": "backend",
+    "elixirLS.fetchDeps": false,
+    "editor.formatOnSave": false
+}
